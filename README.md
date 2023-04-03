@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+</div>
+
+- 🔭 I’m currently working on Computer Vision Deep Learning techniques.
+- 🌱 I’m currently learning Software Development in C++, Python, Qt, SQL
+- 📫 How to reach me: alimanov.code@gmail.com
+
 <!--
 **AAleka/AAleka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
