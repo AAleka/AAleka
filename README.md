@@ -1,6 +1,6 @@
 ### :man_technologist: About Me :
 
-I am a Computer Vision and Deep Learning researcher working and studying in Turkey. I am currently learning software development on Windows and Linux with C++, Python, Qt and SQL. I am a fan of open-source. I learned a lot thanks to it. So, those interested in computer vision, deep learning and software development feel free to follow.
+I am a Computer Vision and Deep Learning researcher working and studying in Turkey. I am currently learning software development on Windows and Linux with C++, Python, Qt and SQL. I am a fan of open-source, I learned a lot thanks to it. So, those interested in computer vision, deep learning and software development feel free to follow.
 
 
 <div id="header" align="center">
