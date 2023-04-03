@@ -9,7 +9,7 @@
 </div>
 
 - 🔭 I’m currently working on Computer Vision Deep Learning techniques.
-- 🌱 I’m currently learning Software Development in C++, Python, Qt, SQL
+- 🌱 I’m currently learning Software Development in C++, Python, Qt, SQL on Windows and Linux.
 - 📫 How to reach me: alimanov.code@gmail.com
 
 <!--
